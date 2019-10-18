@@ -822,7 +822,10 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
+
+		/* display: flex */
 		display: flex;
+
 		cursor: default;
 		list-style: none;
 		margin-left: -1rem;
@@ -1800,10 +1803,14 @@ input, select, textarea {
 			-moz-transform: scale(0.95);
 			-webkit-transform: scale(0.95);
 			-ms-transform: scale(0.95);
+
+			/* transform */
 			transform: scale(0.95);
 			-moz-filter: blur(0.1rem);
 			-webkit-filter: blur(0.1rem);
 			-ms-filter: blur(0.1rem);
+
+			/* filter */
 			filter: blur(0.1rem);
 			opacity: 0;
 		}
