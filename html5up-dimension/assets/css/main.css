@@ -91,6 +91,7 @@ input, select, textarea {
 	html {
 		box-sizing: border-box;
 		/* background-image: url("images/laptop-notebook.jpg"); */
+		background-image: url("html5up-dimension/images/htmltag.jpg");
 	}
 
 	*, *:before, *:after {
@@ -99,6 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: black;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
