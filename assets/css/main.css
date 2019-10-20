@@ -1525,6 +1525,7 @@ input, select, textarea {
 			color: navajowhite;
 		}
 
+
 		body.is-article-visible #header {
 			-moz-transform: scale(0.95);
 			-webkit-transform: scale(0.95);
@@ -1581,7 +1582,7 @@ input, select, textarea {
 					height: calc(2rem + 1px);
 				}
 
-			#header .logo {
+			#header .logo .top-logo {
 				width: 4.75rem;
 				height: 4.75rem;
 				line-height: 4.75rem;
